@@ -19,10 +19,12 @@
 
 | 날짜 | 진행 상황 | 
 | -------- | -------- |
-| 23.11.04(토)     | Observable과 Observaer에 대하여 공부하고 정리했습니다. |
+| 23.11.04(토)     | Observable과 Observer에 대하여 공부하고 정리했습니다. |
+| 23.11.09(목)     | Observabler과 Observer 그리고 Subscribe에 대하여 공부하고 정리했습니다. |
 
 ## 📖 스터디 리스트
 - [Observables and Observers #1](https://github.com/devKobe24/RxSwift-Study/blob/main/Kobe/231104.md)
+- [Observables and Observers #2](https://github.com/devKobe24/RxSwift-Study/blob/main/Kobe/231109.md)
 
 
 ## 📑 참고자료
